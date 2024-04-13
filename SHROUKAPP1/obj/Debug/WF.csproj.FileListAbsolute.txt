@@ -1,0 +1,10 @@
+F:\ITI\C#\day7\task\WF\bin\Debug\WF.exe.config
+F:\ITI\C#\day7\task\WF\bin\Debug\WF.exe
+F:\ITI\C#\day7\task\WF\bin\Debug\WF.pdb
+F:\ITI\C#\day7\task\WF\obj\Debug\WF.csproj.AssemblyReference.cache
+F:\ITI\C#\day7\task\WF\obj\Debug\WF.Form1.resources
+F:\ITI\C#\day7\task\WF\obj\Debug\WF.Properties.Resources.resources
+F:\ITI\C#\day7\task\WF\obj\Debug\WF.csproj.GenerateResource.cache
+F:\ITI\C#\day7\task\WF\obj\Debug\WF.csproj.CoreCompileInputs.cache
+F:\ITI\C#\day7\task\WF\obj\Debug\WF.exe
+F:\ITI\C#\day7\task\WF\obj\Debug\WF.pdb
